@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ebf4fa;
+  color: #1464b5;
+  line-height: 1.6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.nav.justify-content-center {
+  padding: 10px;
+  background-color: #e0ffff;
+  box-shadow: 0px 14px 25px -15px #4c81b6;
+  margin-bottom: 1rem;
+}
+
+.card:hover {
+  box-shadow: 0 10px 12px -5px #4c81b6, -5px 0 5px -5px #4c81b6,
+    5px 0 5px -5px #4c81b6;
+  transform: translateY(-8px) scale(1.003);
+  transition: 0.5s;
+}
+
+a {
+  color: #1464b5;
+  text-decoration: none;
+}
+
+li {
+  font-size: 22px;
+}
+
+.row {
+  --bs-gutter-x: 0rem;
+}
+
+.card {
+  width: 19rem;
+  padding: 2px;
+  margin: 10px;
+  display: block;
+  border-radius: 10px;
+  background-color: #e0ffff;
+}
+
+.cardp {
+  width: 19rem;
+  padding: 2px;
+  margin: 10px;
+  display: block;
+  border-radius: 10px;
+  background-color: #e0ffff;
+}
+
+#Designationcol {
+  color: #df4c73;
+}
+
+#boxcol {
+  padding: 0.25rem 0.5rem;
+  background-color: rgb(9 90 145 / 12%);
+}
+
+#Card-link {
+  color: #df4c73;
+  margin-top: 1.5px;
+  font-size: 10px;
+}
+
+.edu {
+  font-size: 0.8rem;
+}
+
+#pos {
+  margin-bottom: 5px;
+}
+
+#profilesec {
+  margin-left: 5rem;
+}
+
+#notcenter {
+  text-align: left;
+  margin-top: 10px;
+}
+
+#Description {
+  font-size: 20px;
+  text-align: left;
+}
+
+#icon {
+  width: 20%;
+  margin-top: 15px;
+}
+
+#icon2 {
+  width: 80%;
+  margin-top: 15px;
+}
+
+i {
+  text-align: left;
+}
+
+#top {
+  margin-top: 1rem;
+}
+
+#bold {
+  font-size: 18px;
+}

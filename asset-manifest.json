@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Faculty-API/static/css/main.f3730be8.css",
-    "main.js": "/Faculty-API/static/js/main.2aed7b56.js",
-    "index.html": "/Faculty-API/index.html",
-    "main.f3730be8.css.map": "/Faculty-API/static/css/main.f3730be8.css.map",
-    "main.2aed7b56.js.map": "/Faculty-API/static/js/main.2aed7b56.js.map"
+    "main.css": "/Faculty/static/css/main.f3730be8.css",
+    "main.js": "/Faculty/static/js/main.2aed7b56.js",
+    "index.html": "/Faculty/index.html",
+    "main.f3730be8.css.map": "/Faculty/static/css/main.f3730be8.css.map",
+    "main.2aed7b56.js.map": "/Faculty/static/js/main.2aed7b56.js.map"
   },
   "entrypoints": [
     "static/css/main.f3730be8.css",

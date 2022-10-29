@@ -13,7 +13,7 @@ root.render(
       <Routes>
         <Route path="/" element={<Layout/>}>
           <Route index element={<Faculty/>}></Route>
-          <Route path="/Faculty" element={<Faculty/>}></Route>
+          <Route path="/Faculty-API" element={<Faculty/>}></Route>
           <Route path="/DetailFaculty/:id" element={<DetailFaculty/>}></Route>
         </Route>
       </Routes>
